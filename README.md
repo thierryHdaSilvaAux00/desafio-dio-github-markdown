@@ -1,2 +1,8 @@
 # desafio-dio-github-markdown
-atividade do curso de formacao basica em github da DIO
+Codigos basicos Linux
+`ls`
+`cd`
+`pwd`
+`mkdir`
+`nano`
+
